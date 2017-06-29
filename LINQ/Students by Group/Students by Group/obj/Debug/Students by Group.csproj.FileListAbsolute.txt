@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\LINQ\Students by Group\Students by Group\bin\Debug\Students by Group.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\LINQ\Students by Group\Students by Group\bin\Debug\Students by Group.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\LINQ\Students by Group\Students by Group\bin\Debug\Students by Group.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\LINQ\Students by Group\Students by Group\obj\Debug\Students by Group.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\LINQ\Students by Group\Students by Group\obj\Debug\Students by Group.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\LINQ\Students by Group\Students by Group\obj\Debug\Students by Group.pdb

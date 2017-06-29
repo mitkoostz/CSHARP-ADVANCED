@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Manual String Processing\ReverseWord\ReverseWord\bin\Debug\ReverseWord.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Manual String Processing\ReverseWord\ReverseWord\bin\Debug\ReverseWord.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Manual String Processing\ReverseWord\ReverseWord\bin\Debug\ReverseWord.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Manual String Processing\ReverseWord\ReverseWord\obj\Debug\ReverseWord.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Manual String Processing\ReverseWord\ReverseWord\obj\Debug\ReverseWord.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Manual String Processing\ReverseWord\ReverseWord\obj\Debug\ReverseWord.pdb

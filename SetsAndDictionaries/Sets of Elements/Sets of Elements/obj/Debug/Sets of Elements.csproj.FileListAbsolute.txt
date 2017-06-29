@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\SetsAndDictionaries\Sets of Elements\Sets of Elements\bin\Debug\Sets of Elements.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\SetsAndDictionaries\Sets of Elements\Sets of Elements\bin\Debug\Sets of Elements.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\SetsAndDictionaries\Sets of Elements\Sets of Elements\bin\Debug\Sets of Elements.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\SetsAndDictionaries\Sets of Elements\Sets of Elements\obj\Debug\Sets of Elements.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\SetsAndDictionaries\Sets of Elements\Sets of Elements\obj\Debug\Sets of Elements.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\SetsAndDictionaries\Sets of Elements\Sets of Elements\obj\Debug\Sets of Elements.pdb

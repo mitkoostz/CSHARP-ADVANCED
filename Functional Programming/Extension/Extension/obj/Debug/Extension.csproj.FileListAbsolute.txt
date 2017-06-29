@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Extension\Extension\bin\Debug\Extension.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Extension\Extension\bin\Debug\Extension.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Extension\Extension\bin\Debug\Extension.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Extension\Extension\obj\Debug\Extension.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Extension\Extension\obj\Debug\Extension.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Extension\Extension\obj\Debug\Extension.pdb

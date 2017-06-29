@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\LineNumbers\LineNumbers\bin\Debug\LineNumbers.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\LineNumbers\LineNumbers\bin\Debug\LineNumbers.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\LineNumbers\LineNumbers\bin\Debug\LineNumbers.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\LineNumbers\LineNumbers\obj\Debug\LineNumbers.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\LineNumbers\LineNumbers\obj\Debug\LineNumbers.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\LineNumbers\LineNumbers\obj\Debug\LineNumbers.pdb

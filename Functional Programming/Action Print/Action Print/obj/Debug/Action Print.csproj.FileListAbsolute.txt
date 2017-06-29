@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Action Print\Action Print\bin\Debug\Action Print.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Action Print\Action Print\bin\Debug\Action Print.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Action Print\Action Print\bin\Debug\Action Print.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Action Print\Action Print\obj\Debug\Action Print.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Action Print\Action Print\obj\Debug\Action Print.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Functional Programming\Action Print\Action Print\obj\Debug\Action Print.pdb

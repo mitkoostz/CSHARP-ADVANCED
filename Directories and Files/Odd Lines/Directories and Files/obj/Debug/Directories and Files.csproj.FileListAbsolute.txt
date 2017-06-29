@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\Directories and Files\bin\Debug\Directories and Files.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\Directories and Files\bin\Debug\Directories and Files.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\Directories and Files\bin\Debug\Directories and Files.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\Directories and Files\obj\Debug\Directories and Files.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\Directories and Files\obj\Debug\Directories and Files.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\Directories and Files\obj\Debug\Directories and Files.pdb

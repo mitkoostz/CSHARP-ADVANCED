@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\WordCount\WordCount\bin\Debug\WordCount.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\WordCount\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\WordCount\WordCount\bin\Debug\WordCount.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\WordCount\WordCount\bin\Debug\WordCount.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\WordCount\WordCount\obj\Debug\WordCount.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Directories and Files\WordCount\WordCount\obj\Debug\WordCount.pdb

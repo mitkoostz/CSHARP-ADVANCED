@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Stack and Queues\1.ReverseNumber\1.ReverseNumber\bin\Debug\1.ReverseNumber.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Stack and Queues\1.ReverseNumber\1.ReverseNumber\bin\Debug\1.ReverseNumber.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Stack and Queues\1.ReverseNumber\1.ReverseNumber\bin\Debug\1.ReverseNumber.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Stack and Queues\1.ReverseNumber\1.ReverseNumber\obj\Debug\1.ReverseNumber.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Stack and Queues\1.ReverseNumber\1.ReverseNumber\obj\Debug\1.ReverseNumber.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Stack and Queues\1.ReverseNumber\1.ReverseNumber\obj\Debug\1.ReverseNumber.pdb

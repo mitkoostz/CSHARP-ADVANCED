@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Asynchronous Programming\Test\Test\bin\Debug\Test.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Asynchronous Programming\Test\Test\bin\Debug\Test.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Asynchronous Programming\Test\Test\bin\Debug\Test.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Asynchronous Programming\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Asynchronous Programming\Test\Test\obj\Debug\Test.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# ADVANCED\Asynchronous Programming\Test\Test\obj\Debug\Test.pdb
